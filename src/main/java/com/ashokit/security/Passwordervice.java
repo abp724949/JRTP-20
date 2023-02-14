@@ -22,6 +22,10 @@ public class Passwordervice {
 		
 	}
 	
+	public void m1() {
+		System.out.println("Arjun");
+	}
+	
 	public static void main(String[] args) {
 		
 		String encode = Passwordervice.encode("Arjun");
